@@ -7,4 +7,4 @@ Project info:
 * version: beta
 
 # IniObject
-Object filled from .ini file
+Object filled from .ini file. Class declaration prevails over file text.
